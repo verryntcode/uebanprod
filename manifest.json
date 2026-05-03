@@ -1,0 +1,11 @@
+{
+  "mods": [
+    {
+      "modId": "yourmod",
+      "version": "1.2.0",
+      "fileName": "yourmod-1.2.0.jar",
+      "downloadUrl": "https://yourserver.com/mods/yourmod-1.2.0.jar",
+      "sha256": "abc123..."
+    }
+  ]
+}
