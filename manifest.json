@@ -1,6 +1,11 @@
 {
-  "loaderVersion": "1.0.0",
-  "loaderFileName": "ueban-loader-1.0.0.jar",
-  "loaderDownloadUrl": "https://downloader.disk.yandex.ru/disk/df4471d7c0ceef3d84282f680fe74a155b05f54776a713be863b193bbc70200f/69f76f05/jOx4V7n9REfWQUP1RxcVK6DI6suUd5b5jU-SSGhkoO12GsUHMcdA3FH3EPWknuI5t9WFS029OiXhtJbe6u2Wpw%3D%3D?uid=0&filename=ueban-loader-1.0.0.jar&disposition=attachment&hash=txkn3hjMrdP6PwehF1OqJ4s308FXnv5WtFV/ggQWBmUl4gF/eeG0NwvzbOJqM/Vqq/J6bpmRyOJonT3VoXnDag%3D%3D%3A&limit=0&content_type=application%2Fzip&owner_uid=1048991813&fsize=560947395&hid=c0850e99f8a5e9b0255b54f9468f5010&media_type=compressed&tknv=v3",
-  "loaderSha256": "3b4905a4f0744215572654018a6bc95852d1f22b382c71b66959d85515457e6d"
+  "mods": [
+    {
+      "modId": "ueban-loader",
+      "version": "1.0.0",
+      "fileName": "ueban-loader-1.0.0.jar",
+      "downloadUrl": "https://downloader.disk.yandex.ru/disk/df4471d7c0ceef3d84282f680fe74a155b05f54776a713be863b193bbc70200f/69f76f05/jOx4V7n9REfWQUP1RxcVK6DI6suUd5b5jU-SSGhkoO12GsUHMcdA3FH3EPWknuI5t9WFS029OiXhtJbe6u2Wpw%3D%3D?uid=0&filename=ueban-loader-1.0.0.jar&disposition=attachment&hash=txkn3hjMrdP6PwehF1OqJ4s308FXnv5WtFV/ggQWBmUl4gF/eeG0NwvzbOJqM/Vqq/J6bpmRyOJonT3VoXnDag%3D%3D%3A&limit=0&content_type=application%2Fzip&owner_uid=1048991813&fsize=560947395&hid=c0850e99f8a5e9b0255b54f9468f5010&media_type=compressed&tknv=v3",
+      "sha256": "3b4905a4f0744215572654018a6bc95852d1f22b382c71b66959d85515457e6d"
+    }
+  ]
 }
