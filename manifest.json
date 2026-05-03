@@ -1,10 +1,10 @@
 {
   "mods": [
     {
-      "modId": "yourmod",
-      "version": "1.2.0",
-      "fileName": "yourmod-1.2.0.jar",
-      "downloadUrl": "https://yourserver.com/mods/yourmod-1.2.0.jar",
+      "modId": "ueban-loader",
+      "version": "1.0.0",
+      "fileName": "ueban-loader-1.0.0.jar",
+      "downloadUrl": "https://disk.yandex.ru/d/wGMVH9igAWFVmQ",
       "sha256": "abc123..."
     }
   ]
